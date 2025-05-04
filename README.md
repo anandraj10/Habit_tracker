@@ -5,9 +5,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
-cd git clone
+cd git clone https://github.com/anandraj10/Habit_tracker.git
 cd habit_tracker
-
 npm install
 npm run dev
 ```
